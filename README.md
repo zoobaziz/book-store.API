@@ -6,8 +6,8 @@
 * To install this package run this command in the terminal
 * `pip install djangorestframework`
 > Note -
-  * After installation enter `django-admin` in the terminal to check whether the path variable is updated properly.
-  * If it doesn't work go to `$AppData\Roaming\Python\Python39\Scripts` and add this filepath into the **PATH** environment variable.
+>  * After installation enter `django-admin` in the terminal to check whether the path variable is updated properly.
+>  * If it doesn't work go to `$AppData\Roaming\Python\Python39\Scripts` and add this filepath into the **PATH** environment variable.
 
 ## Creating the REST API project
 * Create an Empty folder with name `BookStore`
