@@ -1,6 +1,6 @@
 # Building Rest APIs for BookStore App
 1. Install MongoDB Server.
-2. Install Anaconda (for creating an virtual environment)
+2. Install Anaconda or Python
 
 ## Install Django Rest Framework
 * To install this package run this command in the terminal
